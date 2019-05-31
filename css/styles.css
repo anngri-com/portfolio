@@ -16,3 +16,11 @@
   color: black;
   font-size: 1.3em !important;
 }
+
+.row img {
+  width: 850px;
+}
+
+.footer {
+  padding: 2em;
+}
