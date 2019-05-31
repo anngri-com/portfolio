@@ -22,8 +22,12 @@
 }
 
 .row h1 {
-  padding: 1.5em;
   font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.row h2 {
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+  margin-bottom: 1em;
 }
 .footer {
   padding: 2em;
