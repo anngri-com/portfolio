@@ -11,7 +11,7 @@ _This website contains information about myself and the projects I have develope
 ## Setup/Installation Requirements
 
 _To see the portfolio in action:_
-* _Navigate to the [GitHub pages](http://...github.io/portfolio)_
+* _Navigate to the GitHub pages: https://anngri-com.github.io/portfolio/_
 
 ## Known Bugs
 
