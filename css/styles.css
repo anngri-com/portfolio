@@ -2,3 +2,7 @@
   background-image: url("");
   background-size: cover;
 }
+
+.nav.navbar-nav li a {
+  color: black;
+}
