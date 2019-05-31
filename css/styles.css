@@ -32,3 +32,6 @@
 .footer {
   padding: 2em;
 }
+p {
+  font-size: 1.3em !important;
+}
