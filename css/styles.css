@@ -8,6 +8,10 @@
   font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
+.jumbotron p {
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
 .nav.navbar-nav li a {
   color: black;
   font-size: 1.3em !important;
